@@ -1,3 +1,3 @@
 # serenityapp
 
-A new Flutter project.
+Basic Flutter project.
